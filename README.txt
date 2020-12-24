@@ -1,8 +1,5 @@
-Elizabeth Thrasher
-Anagram Puzzle
-
-
-Build and Run Instructions: In a Mac or Linux terminal
+#Anagrams
+##Build and Run Instructions: In a Mac or Linux terminal
 
 I made a shell script so it would be easier to run. If you navigate down the 
 folder hierarchy: "src->Allston_Interview_Pack" then there should be a file
@@ -78,25 +75,4 @@ anagrams. However, due to the shear size of possible outcomes, I could not make
 an array due to its massive size. Therefore, I created a LinkedList and
 added each Anagram onto the end. At the end of the algorithm, I turned this 
 result into an array and returned it, to print it out in Main. 
-
-
-Testing
-
-In order to test my program, I ran multiple words on each of the 4 dictionaries 
-in the folder labeled Dicts. I had the program print out the solutions and
-checked what I believed the answer should have been from that. Throughout
-debugging, I used print statements and assert statements to clarify different 
-parts of the program. These have since been removed due to programming style
-and documentation. However, the dictionaries I created have many edge cases 
-that could potentially throw off the computer including an empty dictionary, 
-one with many random comments and empty lines along with a smaller subsection
-of words to test "incredible" and "race" on so I could more easily see the 
-correct solution, and one with one comment in it. The Sample Dictionary 
-provided made it possible to test more words and larger amounts of information
-since it had a large amount of words. However, it was more difficult to tell if
-all the solutions were actually correct since there were often so many solutions. 
-With careful planning and choosing the words wisely however, this dictionary
-was one of the most useful for testing the efficiency due to having such a large
-data set, it is not difficult to taht the run time be fairly large fairly 
-quickly.
 
