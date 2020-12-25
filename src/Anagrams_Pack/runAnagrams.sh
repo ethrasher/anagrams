@@ -6,7 +6,7 @@
 #computer.
 
 
-DICT_PATH="/Users/thrasher_elizabeth/Documents/Java/Allston_Interview/src/Allston_Interview_Pack/Dicts/Empty.txt"
+DICT_PATH="./Dicts/RaceInc.txt"
 #this is the file_path to the dictionary you would like to use. I provided
 #this one as an example. Make sure that whatever dictionary you use does not have
 #spaces in the file name.
@@ -20,4 +20,4 @@ MULTIPLE="-multiple" #use "" if this option is not wanted
 javac -cp ../ Test.java #can comment this out if you don't need to compile
 
 
-java -cp ../ Allston_Interview_Pack/Test $MULTIPLE $WORD $DICT_PATH
+java -cp ../ Anagrams_Pack/Test $MULTIPLE $WORD $DICT_PATH

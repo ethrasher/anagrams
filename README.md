@@ -2,7 +2,7 @@
 ##Build and Run Instructions: In a Mac or Linux terminal
 
 I made a shell script so it would be easier to run. If you navigate down the 
-folder hierarchy: "src->Allston_Interview_Pack" then there should be a file
+folder hierarchy: "src->Anagrams_Pack" then there should be a file
 called "runAnagrams.sh". You can either run the program as is with the 
 preset options or open this shell script and alter the DICT_PATH, WORD, and
 MULTIPLE variables to what you want to run the program on. When you are in this

@@ -1,14 +1,14 @@
-package Allston_Interview_Pack;
+package Anagrams_Pack;
 import java.io.IOException;
 import java.util.*;
 
-import Allston_Interview_Pack.ReadFile;
-import Allston_Interview_Pack.WordSet;
+import Anagrams_Pack.ReadFile;
+import Anagrams_Pack.WordSet;
 //Run this through command line with:
-//Testing Dict file path: "/Users/thrasher_elizabeth/Documents/Java/Allston_Interview/src/Allston_Interview_Pack/Sample_Dictionary_File.txt"
-//	$cd /Users/thrasher_elizabeth/Documents/java/Allston_Interview/src/Allston_Interview_Pack
+//Testing Dict file path: "/Users/thrasher_elizabeth/Documents/Java/Allston_Interview/src/Anagrams_Pack/Sample_Dictionary_File.txt"
+//	$cd /Users/thrasher_elizabeth/Documents/java/Allston_Interview/src/Anagrams_Pack
 //	$javac -cp ../ Test.java
-//	$java -cp ../Allston_Interview_Pack/Test
+//	$java -cp ../Anagrams_Pack/Test
 
 //Read File functionality from http://www.homeandlearn.co.uk/java/read_a_textfile_in_java.html
 public class Test 

@@ -1,4 +1,4 @@
-package Allston_Interview_Pack;
+package Anagrams_Pack;
 import java.util.Map;
 import java.util.HashMap;
 import java.lang.Integer;

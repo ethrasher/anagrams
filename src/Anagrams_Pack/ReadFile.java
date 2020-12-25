@@ -1,4 +1,4 @@
-package Allston_Interview_Pack;
+package Anagrams_Pack;
 import java.io.IOException;
 import java.io.FileReader;
 import java.io.BufferedReader;
