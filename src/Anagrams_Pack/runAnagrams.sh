@@ -4,6 +4,8 @@
 
 #Use bourne shell for portability. Bourne is on almost every unix based 
 #computer.
+parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
+cd "$parent_path"
 
 
 DICT_PATH="./Dicts/RaceInc.txt"
