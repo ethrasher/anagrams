@@ -1,5 +1,5 @@
-#Anagrams
-##Build and Run Instructions: In a Mac or Linux terminal
+# Anagrams
+## Build and Run Instructions: In a Mac or Linux terminal
 
 I made a shell script so it would be easier to run. If you navigate down the 
 folder hierarchy: "src->Anagrams_Pack" then there should be a file
@@ -15,10 +15,7 @@ simply by typing:
 
 $./runAnagrams.sh
 
-
-
-
-Design, Algorithms, Implementation
+## Design, Algorithms, Implementation
 
 Note: Throughout this problem, I assumed that an anagram was case in-sensitive and 
 therefore changed everything to uppercase. I also assumed that the words would
